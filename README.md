@@ -112,7 +112,7 @@ All application routes & API endpoints are defined in both the **[web.php](route
 
 ## Installation & Configuration:
 
-1- Open your terminal, and use the '***git clone https://github.com/AhmedYahyaE/laravel-multi-vendor-e-commerce-application.git***' command, or just download the ZIP project.
+1- Open your terminal, and use the '***git clone https://github.com/nityam10000/laravel-multi-vendor-e-commerce-application.git***' command, or just download the ZIP project.
 
 2- Navigate/Change into (using the **cd** command) to the project root directory, then run the '***composer install***' command.
 
