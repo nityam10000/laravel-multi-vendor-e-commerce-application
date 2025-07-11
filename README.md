@@ -109,10 +109,6 @@ Frontend technologies used: jQuery, AJAX, and many JavaScript & jQuery libraries
 ## Application Routes and API Endpoints:
 All application routes & API endpoints are defined in both the **[web.php](routes/web.php)** file (Frontend and Admin Panel routes) and **[api.php](routes/api.php)** file (API Endpoints).
 
-## API Endpoints:
-> ***\*\* Check the application API Collection on my Postman Profile: https://www.postman.com/ahmed-yahya/workspace/my-public-portfolio-postman-workspace/collection/28181483-179adc20-2dcc-426c-a755-5a48da9ca7a4***
-
-> ***\*\* Also, you can test the API Endpoints yourself using Postman. Here is the API's Postman Collection .json file [API Postman Collection file](<Postman Collection of API Endpoints/Multi-vendor E-commerce Application API.postman_collection.json>) that you can download and import into your Postman.***
 
 ## Installation & Configuration:
 
@@ -122,7 +118,4 @@ All application routes & API endpoints are defined in both the **[web.php](route
 
 3- Run the '***npm install***' command (and only in case you face any issues/errors, run the 'npm audit fix' command), and then run the '***npm run build***' command.
 
-4- Create a MySQL database named **\`multivendor_ecommerce\`**, then import the **[multivendor_ecommerce database SQL Dump File](<Database - multivendor_ecommerce/multivendor_ecommerce database - SQL Dump File - phpMyAdmin Export.sql>)** into your **\`multivendor_ecommerce\`** database.
-
-5- Navigate to the **[.env](.env)** file and configure/update it with your MySQL database credentials and other configuration settings.
 
